@@ -11,3 +11,4 @@ elif lastdigit == 0:
     print(f"{thestring} and is 0")
 elif lastdigit < 6:
     print(f"{thestring} and is less than 6 and not 0")
+print("\n")
